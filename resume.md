@@ -1,9 +1,4 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-
 # Rahadyan Fannani Arif
-
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
 
 - <rahadyan.xc@gmail.com>
 - (+62) 85536827116
@@ -39,8 +34,8 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 ### <span>Android Developer, PT Klopos Ritel Fintek (Currently: Majoo)</span> <span>Sep 2017 -- Oct 2018</span>
 
-- Implemented features for native application using java.
-- Collaborated with UI/UX designer, back end developer, QA teams and product manager to develop features.
+- Implemented features for native applications using java.
+- Collaborated with UI/UX designer, back-end developer, QA teams, and product manager to develop features.
 
 ### <span>Game Programmer Internship, Agate International</span> <span>May 2017 -- Aug 2017</span>
 
