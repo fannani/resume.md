@@ -8,7 +8,7 @@
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 
-I am a Software Engineer with 4+ years of professional experience, who is experienced in developing various end-to-end applications. Passionate about building Front-End web applications including optimization, integration, accessibility, and testing.
+I am a Software Engineer who is experienced in developing various end-to-end applications with more than 4 years profesional experience Passionate about building Front-End web applications including optimization, integration, accessibility, and testing.
 
 ## Skills
 
