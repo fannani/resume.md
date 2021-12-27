@@ -14,7 +14,7 @@ I am a Software Engineer who is experienced in developing various end-to-end app
 
 - Languages: (proficient): Javascript, Typescript, Dart, Java (familiar): Python, SQL, C++
 - Technologies: (proficient): ReactJS, MobX/Redux/Jotai, NextJs, ChakraUI/TailwindCSS, NestJS, Flutter, Graphql, Webpack (familiar): VueJS, InertiaJS
-- Others: Vercel, Firebase, GCP, Git, Midtrans
+- Others: Vercel, Firebase, GCP, Git, PrismaJS, MongoDB
 
 ## Education
 
@@ -55,7 +55,9 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 KodeKurawal is a web platform that provides an interactive way of learning with the implementation of Gamification on it. Learn programming by using the mechanics of playing games, so the learning process is no longer boring.
 
-Tech stack: NextJS, Redux, Graphql, ExpressJS, DraftJS
+Tech stack: NextJS, Redux, Graphql, ExpressJS, DraftJS, MongoDB, PostgreSQL, Prisma v1
+
+[kodekurawal.com](http://kodekurawal.com)
 
 ### <span>KNB</span> <span>2020 - Now</span>
 
@@ -63,11 +65,15 @@ Kemitraan Negara Berkembang Scholarship, popularly known as KNB Scholarship, is 
 
 Tech stack: NextJS, ChakraUI, Jotai, React-Query, PrismaJS
 
+[knb.kemdikbud.go.id](http://knb.kemdikbud.go.id)
+
 ### <span>Robopem</span> <span>2020</span>
 
 ROBOPEM is an online learning platform about Fuel Cell that can be accessed via the web and android devices. There are student management features, user activity analysis, course management, and group management on the admin. The client has features for reading material, viewing learning videos, conducting interactive simulations, and conducting evaluations. The material is presented in various formats, such as Text, PDF, Video, and interactive simulations.
 
 Tech stack: NextJS, ChakraUI, Jotai,
+
+[robopem.com](https://robopem.com)
 
 ### <span>Ecommerce</span> <span>2020</span>
 
