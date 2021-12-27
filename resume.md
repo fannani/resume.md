@@ -16,6 +16,12 @@ I am a Software Engineer with 4+ years of professional experience, who is experi
 - Technologies: (proficient): ReactJS, MobX/Redux/Jotai, NextJs, ChakraUI/TailwindCSS, NestJS, Flutter, Graphql, Webpack (familiar): VueJS, InertiaJS
 - Others: Vercel, Firebase, GCP, Git, Midtrans
 
+## Education
+
+### <span>Malang State University, BA Informatics Education</span> <span>2014 -- 2019</span>
+
+- Bachelor of Arts - BA, Informatics Education
+
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -68,9 +74,3 @@ Tech stack: NextJS, ChakraUI, Jotai,
 Online selling and buying platform with C2G (Client to Government) System.
 
 Tech stack: VueJS, Laravel, InertiaJS,
-
-## Education
-
-### <span>Malang State University, BA Informatics Education</span> <span>2014 -- 2019</span>
-
-- Bachelor of Arts - BA, Informatics Education
