@@ -13,7 +13,13 @@ line. It is intended to be used for contact details -->
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 
-I am a Software Engineer with 4+ years experience
+I am a Software Engineer with 4+ years of professional experience, who is experienced in developing various end-to-end applications. Passionate about building Front-End web applications including optimization, integration, accessibility, and testing.
+
+## Skills
+
+- Languages: (proficient): Javascript, Typescript, Dart, Java (familiar): Python, SQL, C++
+- Technologies: (proficient): ReactJS, MobX/Redux/Jotai, NextJs, ChakraUI/TailwindCSS, NestJS, Flutter, Graphql, Webpack (familiar): VueJS, InertiaJS
+- Others: Vercel, Firebase, GCP, Git, Midtrans
 
 ## Experience
 
@@ -33,8 +39,8 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 ### <span>Android Developer, PT Klopos Ritel Fintek (Currently: Majoo)</span> <span>Sep 2017 -- Oct 2018</span>
 
-- Implemented features for native application using java
-- Collaborated with UI/UX designer, back end developer, QA teams and product manager to develop features
+- Implemented features for native application using java.
+- Collaborated with UI/UX designer, back end developer, QA teams and product manager to develop features.
 
 ### <span>Game Programmer Internship, Agate International</span> <span>May 2017 -- Aug 2017</span>
 
@@ -44,27 +50,27 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 ## Projects
 
-### <span>Kodekurawal</span> <span>Aug 2016</span>
+### <span>Kodekurawal</span> <span>2018 - Now</span>
 
-A mapping engine that misguides you:
+KodeKurawal is a web platform that provides an interactive way of learning with the implementation of Gamification on it. Learn programming by using the mechanics of playing games, so the learning process is no longer boring.
 
 Tech stack: NextJS, Redux, Graphql, ExpressJS, DraftJS
 
-### <span>KNB</span> <span>Aug 2016</span>
+### <span>KNB</span> <span>2020 - Now</span>
 
-A mapping engine that misguides you:
+Kemitraan Negara Berkembang Scholarship, popularly known as KNB Scholarship, is a program offered by the Indonesian Government to prospective international students coming from developing countries to pursue their master’s degree in one of the Indonesian universities.
 
 Tech stack: NextJS, ChakraUI, Jotai, React-Query, PrismaJS
 
-### <span>Robopem</span> <span>Aug 2016</span>
+### <span>Robopem</span> <span>2020</span>
 
-A mapping engine that misguides you:
+ROBOPEM is an online learning platform about Fuel Cell that can be accessed via the web and android devices. There are student management features, user activity analysis, course management, and group management on the admin. The client has features for reading material, viewing learning videos, conducting interactive simulations, and conducting evaluations. The material is presented in various formats, such as Text, PDF, Video, and interactive simulations.
 
 Tech stack: NextJS, ChakraUI, Jotai,
 
-### <span>Ecommerce</span> <span>Aug 2016</span>
+### <span>Ecommerce</span> <span>2020</span>
 
-A mapping engine that misguides you:
+Online selling and buying platform with C2G (Client to Government) System.
 
 Tech stack: VueJS, Laravel, InertiaJS,
 
@@ -73,9 +79,3 @@ Tech stack: VueJS, Laravel, InertiaJS,
 ### <span>Malang State University, BA Informatics Education</span> <span>2014 -- 2019</span>
 
 - Bachelor of Arts - BA, Informatics Education
-
-## Skills
-
-- Languages: (proficient): Javascript, Typescript, Dart, Java (familiar): Python, SQL, C++
-- Technologies: (proficient): ReactJS, MobX/Redux/Jotai, NextJs, ChakraUI/TailwindCSS, NestJS, Flutter, Graphql, Webpack (familiar): VueJS, InertiaJS
-- Others: Vercel, Firebase, GCP, Git, Midtrans
