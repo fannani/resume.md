@@ -77,6 +77,6 @@ Tech stack: NextJS, ChakraUI, Jotai,
 
 ### <span>Ecommerce</span> <span>2020</span>
 
-Online selling and buying platform with C2G (Client to Government) System.
+Online selling and buying platform with C2G (Client to Government) System. There are negotiation feature, payment system that integrated with Midtrans, discount system and stock management.
 
-Tech stack: VueJS, Laravel, InertiaJS,
+Tech stack: VueJS, Laravel, InertiaJS, Midtrans
